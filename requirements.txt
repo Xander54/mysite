@@ -1,0 +1,7 @@
+asgiref==3.7.2
+Django==4.2.5
+-e git+https://github.com/jazzband/django-debug-toolbar.git@a344da1b4425f0563d32589445ffb092c1653077#egg=django_debug_toolbar
+mysqlclient==2.2.0
+Pillow==10.0.0
+psycopg2-binary==2.9.7
+sqlparse==0.4.4
